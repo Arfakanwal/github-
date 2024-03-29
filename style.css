@@ -1,0 +1,157 @@
+.navbar{
+    width: 100%;
+    height: 100;
+}
+.container{
+    background-color: rgb(36, 35, 35);
+    width: 120%;
+
+}
+.clone{
+    color: white;
+    margin-left: 0%;
+ 
+}
+.option{
+    display: flex;
+    list-style: none;
+    a{
+        color: white;
+        padding: 20px;
+     
+    }
+hover{
+   
+    cursor: pointer;
+}
+}
+h1{
+   
+    color: white;
+    font-weight: bolder;
+ margin-left: 280px;
+ margin-top: 10px;
+ font-size: 100px;
+}
+.about{
+    color: rgb(112, 111, 111);
+    font-weight: bold;
+    margin-left: 280px;
+ margin-top: 10px;
+ font-size: 20px;
+}
+.remain{
+    color: rgb(112, 111, 111);
+    font-weight: bold;
+    margin-left: 280px;
+ margin-top: 10px;
+ font-size: 20px;
+}
+.btn{
+    width: 250px;
+    margin-left: 280px;
+    margin-top:20px;
+padding: 10px;
+background-color: white;
+font-weight: bold;
+color: black;
+}
+.btn-hover{
+cursor: pointer;
+}
+span{
+    color: white;
+    margin-left: 280px;
+}
+.main{
+    color: white;
+ background-color: rgb(4, 7, 8);
+ height: 500px;
+}
+.main>p{
+    margin-left: 480px;
+}
+
+.box{
+   border: 1px solid rgb(61, 61, 61);
+   border-radius: 5px;
+   height:350px ;
+   width: 850px;
+   margin-left: 200px;
+   padding: 20px;
+}
+h2{
+    margin-left: 400px;
+    margin-top: 20px;
+    hover{
+        cursor: pointer;
+    }
+}
+.end{
+    color: rgb(24, 23, 23);
+    margin-left: 20px;
+    font-size: 60px;
+    font-family: "Karla", sans-serif;
+font-weight: bolder;
+font-size: 1000;     
+}
+h3{
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 8px;
+}
+.col{
+    margin-left:19px;
+}
+div  {
+    color: black;
+    h2{
+        font-weight: bold;
+    }
+    p{
+        margin-left: 400px;
+    }
+    button{
+        margin-left: 400px;
+        border-radius: 5px;
+        padding: 9px;
+        background-color: rgb(26, 24, 24);
+        color: white;
+    }
+   
+
+}
+.view{
+    color: rgb(0, 0, 3);
+    margin-left: 400px;
+}
+footer{
+    margin-top: 20px;
+    padding: 20px;
+   
+}
+footer{
+    h2{
+        margin-top: 0%;
+        margin-left: 10px;
+    }
+}
+.last{
+    color: rgb(61, 56, 56);
+    margin-left: 10px;
+}
+.col img{
+   display: flex;
+   justify-content: end;
+
+    
+}
+.web{
+    color: black;
+   
+}
+
+    
+  
+
+
